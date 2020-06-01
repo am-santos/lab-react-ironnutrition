@@ -1,0 +1,15 @@
+.meal-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.meal-box img {
+  width: 15em;
+  margin-bottom: 2em;
+  margin-right: 1em;
+}
+
+.meal-box h5 {
+  margin-right: 1em;
+}
